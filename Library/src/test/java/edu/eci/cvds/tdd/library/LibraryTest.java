@@ -1,4 +1,4 @@
-package test.java.edu.eci.cvds.tdd.library;
+package edu.eci.cvds.tdd.library;
 import edu.eci.cvds.tdd.library.Library;
 import edu.eci.cvds.tdd.library.book.Book;
 import edu.eci.cvds.tdd.library.loan.Loan;
