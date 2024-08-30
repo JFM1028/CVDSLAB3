@@ -9,5 +9,6 @@ CREACION DE ESQUELETO
 ![image](https://github.com/user-attachments/assets/9a4dd98f-ba06-4be7-b56c-27751a012aa1)
 ![image](https://github.com/user-attachments/assets/a20e375d-b2ba-49e9-8bc1-3c820bf8c07e)
 ![image](https://github.com/user-attachments/assets/76e213b9-9dd9-466b-865a-6733d8e53a21)
+![image](https://github.com/user-attachments/assets/871714d7-f4b4-45f9-93f7-24775975e34c)
 
 
